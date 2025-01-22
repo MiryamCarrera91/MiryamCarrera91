@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Actualmente estoy trabajando en mejorar mi GitHub
-- ⚡ Recien termine mi bootcamp en Tripleten
-- 💬 Pregúntame sobre alguno de mis repositorios
-- 📫 Cómo contactarme: 
+- 🔭 I'm currently working on improving my GitHub
+- ⚡ I just finished my bootcamp at Tripleten
+- 💬 Ask me about any of my repositories
+- 📫 How to contact me:
 miryamecarrera@gmail.com
