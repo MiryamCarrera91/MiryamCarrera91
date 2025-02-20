@@ -33,10 +33,6 @@ I am a Data Analyst and Industrial Engineer with experience in data collection, 
 ## 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiryamCarrera91&show_icons=true&theme=dracula)
 
-## 📫 **Contact Me**
-📧 Email: miryamecarrera@gmail.com  
-💼 LinkedIn: [Miryam Carrera](https://www.linkedin.com/in/miryamcarrera91/)
-
 
 ## 📫 **Contact Me**
 📧 Email: miryamecarrera@gmail.com  
