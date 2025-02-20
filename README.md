@@ -1,3 +1,4 @@
+![Miryam Carrera Banner](https://github.com/user-attachments/assets/ea66d650-39fd-4c5c-860b-a698ec86e2d4)
 # 👋 Hello! I'm Miryam Carrera
 
 🚀 **Data Analyst | Industrial Engineer**
@@ -43,6 +44,3 @@ I am a Data Analyst and Industrial Engineer with experience in data collection, 
 ## 📫 **Contact Me**
 📧 Email: miryamecarrera@gmail.com  
 💼 LinkedIn: [Miryam Carrera](https://www.linkedin.com/in/miryamcarrera91/)
-
-![Miryam Carrera Banner](https://github.com/user-attachments/assets/ea66d650-39fd-4c5c-860b-a698ec86e2d4)
-
