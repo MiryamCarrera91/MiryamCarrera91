@@ -1,4 +1,4 @@
-![Miryam Carrera Banner](https://github.com/user-attachments/assets/ea66d650-39fd-4c5c-860b-a698ec86e2d4)
+![Miryam Carrera Banner](https://github.com/user-attachments/assets/440174bf-18f8-4551-8e6f-d6c6e6983faa)
 # 👋 Hello! I'm Miryam Carrera
 
 🚀 **Data Analyst | Industrial Engineer**
